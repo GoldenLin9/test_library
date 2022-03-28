@@ -33,7 +33,7 @@ DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
 
 
 
-ALLOWED_HOSTS = [limitless-tor-31491.herokuapp.com]
+ALLOWED_HOSTS = []
 
 
 # Application definition
